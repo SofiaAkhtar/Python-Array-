@@ -27,21 +27,21 @@ g++ array_rotation.cpp -o array_rotation
 ### 2. Python Array Algorithms
 
 ```markdown
-# Array Algorithms in Python
+Array Algorithms in Python
 
 A collection of array-related algorithms implemented in Python.
 
-## Algorithms Included
+Algorithms Included
 
-1. **Array Rotation**
+1. Array Rotation
     - Description: Implements left and right rotations of an array.
     - File: `array_rotation.py`
 
-2. **Array Sorting**
+2. Array Sorting
     - Description: Sorting an array using different algorithms.
     - File: `array_sorting.py`
 
-3. **Array Searching**
+3. Array Searching
     - Description: Searching for an element in an array.
     - File: `array_search.py`
 
