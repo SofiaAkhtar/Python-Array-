@@ -20,13 +20,6 @@ This repository contains various array operations implemented in C++.
 
 Each operation is implemented in a separate file. You can compile and run individual files as needed.
 
-```bash
-g++ array_rotation.cpp -o array_rotation
-./array_rotation
-
-### 2. Python Array Algorithms
-
-```markdown
 Array Algorithms in Python
 
 A collection of array-related algorithms implemented in Python.
@@ -45,9 +38,9 @@ Algorithms Included
     - Description: Searching for an element in an array.
     - File: `array_search.py`
 
-## How to Use
+How to Use
 
 Each algorithm is implemented in a separate file. You can run them individually.
 
-```bash
+
 python array_rotation.py
